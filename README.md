@@ -8,7 +8,8 @@
 
 使用方法：1、新建hex.txt文件，将需要转码的16进制字符串复制进去，保存退出
 
-2、输入命令      python3 2023_11_07_defin.py
+2、输入命令      
+       python3 2023_11_07_defin.py
                 
 
 ————————————————————————————————————————————
@@ -44,7 +45,8 @@ e58896
 
 1、新建hex.txt文件，将需要转码的Unicode编码的中文字符复制进去，保存退出。
 
-2、输入命令      python3 reverse.py
+2、输入命令 
+       python3 reverse.py
 
 提醒：本脚本支持多行输入，单行排序输入
 
@@ -52,4 +54,4 @@ e58896
 
 程序作者：ll-goodlucky
 
-github主页：https://github.com/ll-goodlucky/
+github主页：https://github.com/ll-goodlucky/-
